@@ -49,7 +49,7 @@ export default function ContactPage() {
                 <div className="text-2xl">📧</div>
                 <div className="flex-1">
                   <h3 className="font-semibold text-gray-900">Email</h3>
-                  <p className="text-emerald-600 font-medium">info@mevitunp.com</p>
+                  <p className="text-emerald-600 font-medium">medianafis@gmail.com</p>
                   <p className="text-sm text-gray-600">Kirim inquiry detail via email</p>
                 </div>
               </div>
